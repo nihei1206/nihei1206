@@ -10,7 +10,6 @@
 - Vitalify Asia Co.,inc ( Jr.PMO )
 - 個人で楽しくいろいろ作ってます
 
-
 --- 
 
 ### アカウント
@@ -26,3 +25,10 @@
 
 ### PJ
 - [気ままに開発中] ベトナム生活辞書 : https://vnjpdictionary.web.app/ ( ベトナム生活でちょっと困った時のカンペがわりになればいいな。という自分のためのベトナム語辞書 ) 
+
+---
+
+### 最近の興味あること
+- 文章から感情分析 (BERT,NLP) 
+- ReactJS,TypeScript
+- PWA
