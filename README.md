@@ -1,28 +1,21 @@
 これはプライベートレポジトリです
 
 ---
-History
+これまで
 - Yamagata Universicy ( Informatics and Electronics )
 
-Current
--  Vitalify Asia Co.,inc ( Jr.PMO )
-- 
+現在
+- Vitalify Asia Co.,inc ( Jr.PMO )
+- 個人で楽しくいろいろ作ってます ( まだなにも表に出してません )
+
+--- 
+
+アカウント
+- Github これ
+- zenn : https://zenn.dev/2timesbottle
+- note : https://note.com/nihei1206
 
 ---
 
-<!--
-**nihei1206/nihei1206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
+repository
+- [oitama_trans](https://github.com/nihei1206/oitama_trans)
