@@ -1,14 +1,10 @@
-### 諸々
+### 諸々アカウント
 
-| Title | id |
-| ------------- | ------------- |
-| Name | Nihei Tomotaka |
-| Github  | nihei1206  |
-| Zenn  | 2timesbottle  |
-| Twitter | 2timesbottle |
-| note | nihei1206 |
-
----
+Name : Nihei Tomotaka
+Github : [nihei1206](https://github.com/nihei1206)
+Zenn : [2timesbottle](https://zenn.dev/2timesbottle)
+Twitter : [2timesbottle](https://twitter.com/2timesbottle)
+note : [nihei1206](https://note.com/nihei1206)
 
 ### 経歴
 学士
