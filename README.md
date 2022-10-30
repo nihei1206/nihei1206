@@ -1,4 +1,14 @@
-### Hi there 👋
+これはプライベートレポジトリです
+
+---
+History
+- Yamagata Universicy ( Informatics and Electronics )
+
+Current
+-  Vitalify Asia Co.,inc ( Jr.PMO )
+- 
+
+---
 
 <!--
 **nihei1206/nihei1206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +24,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
