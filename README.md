@@ -17,7 +17,7 @@
 - Github : https://github.com/nihei1206
 - zenn : https://zenn.dev/2timesbottle
 - note : https://note.com/nihei1206
-
+- twitter : https://twitter.com/2timesbottle
 ---
 
 ### repository
