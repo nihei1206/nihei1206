@@ -27,3 +27,6 @@
 - 文章から感情分析 (BERT,NLP) 
 - ReactJS,TypeScript
 - PWA
+
+# やりたいことリスト
+https://github.com/users/nihei1206/projects/2 
