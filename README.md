@@ -11,7 +11,7 @@
 - Yamagata Universicy ( Informatics and Electronics )
 
 現在
-- Vitalify Asia Co.,inc ( Jr.PMO )
+- ベトナムのHCMCのIT会社
 - 個人で楽しくいろいろ作ってます
 
 
