@@ -3,6 +3,7 @@
 - Name : Nihei Tomotaka
 - Github : [nihei1206](https://github.com/nihei1206)
 - Zenn : [2timesbottle](https://zenn.dev/2timesbottle)
+- Zenn : [執筆Repository](https://github.com/nihei1206/zenn)
 - Twitter : [2timesbottle](https://twitter.com/2timesbottle)
 - note : [nihei1206](https://note.com/nihei1206)
 
