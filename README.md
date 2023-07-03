@@ -29,5 +29,3 @@
 - ReactJS,TypeScript
 - PWA
 
-### やりたいことリスト
-https://github.com/users/nihei1206/projects/2 
