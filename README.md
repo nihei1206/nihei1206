@@ -21,7 +21,10 @@
 - [OitamaDict](https://github.com/nihei1206/OitamaDict) ( 山形県置賜地方の方言をまとめたコーパスです。形態素解析器Sudachiで使える形になっています。) 
 
 ### PJ
-- [気ままに開発中] ベトナム生活辞書 : https://vnjpdictionary.web.app/ ( ベトナム生活でちょっと困った時のカンペがわりになればいいな。という自分のためのベトナム語辞書 ) 
+1. ベトナム生活辞書 : https://vnjpdictionary.web.app/ ( WIP 放置 )
+
+2.  ミーティングタイムスタンプレコーダー : https://timestamp-recorder-pwa-orcin.vercel.app/
+    ミーティング録画をタイムスタンプ付きで共有できるツール
 
 
 ### 最近の興味あること
