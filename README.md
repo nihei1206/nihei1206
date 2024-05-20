@@ -24,6 +24,7 @@
 |[ベトナム生活辞書](https://vnjpdictionary.web.app/)|未完成, 放置 |
 |[ミーティングタイムスタンプレコーダー](https://timestamp-recorder-pwa-orcin.vercel.app/)|ミーティング録画をタイムスタンプ付きで共有できるツール|
 |[Hôm nay có phải là ngày ăn chay không?](https://anchay-39a91.web.app/)|菜食日がわかるツール|
+|[Price Comparison](https://comparing-cost-app.firebaseapp.com/)|日越英3ヶ国語対応,単位あたりの費用比較ツール|
 
 ### 最近の興味あること
 - 文章から感情分析 (BERT,NLP) 
