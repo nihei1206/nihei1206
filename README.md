@@ -1,6 +1,4 @@
-<!-- リポジトリステータス -->
-[![nihei1206's github stats](https://github-readme-stats.vercel.app/api?username=nihei1206&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/nihei1206/)  [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nihei1206&count_private=true&layout=compact&theme=tokyonight)](https://github.com/nihei1206/)
-
+[![nihei1206's github stats](https://github-readme-stats-fork-two-smoky.vercel.app/api?username=nihei1206&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/nihei1206/)[![Top used Langs](https://github-readme-stats-fork-two-smoky.vercel.app/api/top-langs/?username=nihei1206&count_private=true&layout=compact&theme=tokyonight)](https://github.com/nihei1206/)
 ### 諸々アカウント
 |title|description | 
 |:----|:----|
