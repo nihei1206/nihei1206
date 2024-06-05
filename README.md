@@ -13,7 +13,7 @@
 |学士|山形大学(工学)-2022|
 |仕事|ベトナムのHCMCのIT会社|
 
-### repository
+### open repository
 |title|description | 
 |:----|:----|
 |[![Readme Card](https://github-readme-stats-fork-two-smoky.vercel.app/api/pin/?username=nihei1206&repo=oitama_trans)](https://github.com/nihei1206/oitama_trans)| 卒業研究「置賜方言における共通語への機械翻訳と性能評価」の公開用レポジトリ　 |
