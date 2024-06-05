@@ -1,3 +1,6 @@
+<!-- リポジトリステータス -->
+[![nihei1206's github stats](https://github-readme-stats.vercel.app/api?username=nihei1206&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/nihei1206/)  [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nihei1206&count_private=true&layout=compact&theme=tokyonight)](https://github.com/nihei1206/)
+
 ### 諸々アカウント
 |title|description | 
 |:----|:----|
@@ -15,8 +18,8 @@
 ### repository
 |title|description | 
 |:----|:----|
-|[oitama_trans](https://github.com/nihei1206/oitama_trans)| 卒業研究「置賜方言における共通語への機械翻訳と性能評価」の公開用レポジトリ　 |
-|[OitamaDict](https://github.com/nihei1206/OitamaDict) |山形県置賜地方の方言をまとめたコーパスです。形態素解析器Sudachiで使える形になっています| 
+|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nihei1206&repo=oitama_trans)](https://github.com/nihei1206/oitama_trans)| 卒業研究「置賜方言における共通語への機械翻訳と性能評価」の公開用レポジトリ　 |
+|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nihei1206&repo=OitamaDict)](https://github.com/nihei1206/OitamaDict)|山形県置賜地方の方言をまとめたコーパスです。形態素解析器Sudachiで使える形になっています|
 
 ### PJ
 |title|description | 
