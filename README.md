@@ -21,7 +21,6 @@
 |[![Readme Card](https://github-readme-stats-fork-two-smoky.vercel.app/api/pin/?username=nihei1206&repo=oitama_trans)](https://github.com/nihei1206/oitama_trans)| 卒業研究「置賜方言における共通語への機械翻訳と性能評価」の公開用レポジトリ　 |
 |[![Readme Card](https://github-readme-stats-fork-two-smoky.vercel.app/api/pin/?username=nihei1206&repo=OitamaDict)](https://github.com/nihei1206/OitamaDict)|山形県置賜地方の方言をまとめたコーパスです。形態素解析器Sudachiで使える形になっています|
 |[![Readme Card](https://github-readme-stats-fork-two-smoky.vercel.app/api/pin/?username=nihei1206&repo=1click-japanese)](https://github.com/nihei1206/1click-japanese)|1click日本語フィルタ Chrome拡張|
-|[![Readme Card](https://chromewebstore.google.com/detail/cursor-usage-counter/eaincebonkecnmnlhaelkollmfadilep?authuser=0&hl=ja)|Cursorの使用料を日毎/月毎に表示するChrome拡張|
 
 ### PJ
 |title|description | 
@@ -31,6 +30,7 @@
 |[Hôm nay có phải là ngày ăn chay không?](https://anchay-39a91.web.app/)|菜食日がわかるツール|
 |[Price Comparison](https://comparing-cost-app.firebaseapp.com/)|日越英3ヶ国語対応,単位あたりの費用比較ツール|
 |[1click-japanese](https://chromewebstore.google.com/detail/cnbmoidocnhdkkhmieejcpbkmhafdfng)|1click日本語フィルタ Chrome拡張|
+|[Cursor Usage Counter](https://chromewebstore.google.com/detail/cursor-usage-counter/eaincebonkecnmnlhaelkollmfadilep?authuser=0&hl=ja)|Cursorの使用料を日毎/月毎に表示するChrome拡張|
 
 ### 最近の興味あること
 - 文章から感情分析 (BERT,NLP) 
