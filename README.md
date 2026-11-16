@@ -1,45 +1,62 @@
-![](https://raw.githubusercontent.com/nihei1206/nihei1206/output/github-contribution-grid-snake.svg)
-[![nihei1206's github stats](https://github-readme-stats-fork-two-smoky.vercel.app/api?username=nihei1206&hide=contribs&count_private=true&show_icons=true)](https://github.com/nihei1206/)[![Top used Langs](https://github-readme-stats-fork-two-smoky.vercel.app/api/top-langs/?username=nihei1206&count_private=true&layout=compact)](https://github.com/nihei1206/)
-[![](https://raw.githubusercontent.com/nihei1206/nihei1206/main/profile-summary-card-output/transparent/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/nihei1206/nihei1206/main/profile-summary-card-output/transparent/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<p align="center">
+  <img src="./assets/profile-header.svg" alt="Mota Nihei — Gen AI PM and solo maker in Ho Chi Minh City" width="100%">
+</p>
 
-<!-- [![](https://raw.githubusercontent.com/nihei1206/nihei1206/main/profile-summary-card-output/transparent/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
+<p align="center">
+  <a href="https://tnihei.com"><img src="https://img.shields.io/badge/Website-tnihei.com-111827?style=flat-square&logo=safari&logoColor=white" alt="Website"></a>
+  <a href="https://twitter.com/2timesbottle"><img src="https://img.shields.io/badge/X-@2timesbottle-111827?style=flat-square&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://zenn.dev/2timesbottle"><img src="https://img.shields.io/badge/Zenn-2timesbottle-3EA8FF?style=flat-square&logo=zenn&logoColor=white" alt="Zenn"></a>
+  <a href="https://saigon-ai.dev"><img src="https://img.shields.io/badge/Community-Saigon_AI_Dev-FF6B35?style=flat-square" alt="Saigon AI Development Meetup"></a>
+</p>
 
+## こんにちは、motaです
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nihei1206&theme=transparent)
+ホーチミン市を拠点に、生成AI領域のプロダクトマネジメントと個人開発をしています。
+仕事や暮らしのなかで見つけた課題を、小さく作り、公開し、実際に運用しながら育てるのが好きです。
 
+いまの主なテーマは **AI × Product / Japan × Vietnam / Writing & Community**。
+企画だけで終わらせず、実装・公開・運用までつなげることを大切にしています。
 
+## Shipping
 
-### 諸々アカウント
-|title|description | 
-|:----|:----|
-|Github | [nihei1206](https://github.com/nihei1206)|
-|Zenn | [2timesbottle](https://zenn.dev/2timesbottle)|
+| Product | What it does | Status |
+| --- | --- | --- |
+| **[note Booster](https://note-booster.app)** | noteのビュー・スキ・フォロワー推移を、Chrome拡張とWebダッシュボードで可視化 | `Released` `Building` |
+| **[NichiViet](https://nichiviet.com)** | 日本とベトナムの暮らし・手続き・クリエイター情報をつなぐ生活情報プロダクト | `Public` `Building` |
+| **[Saigon AI Development Meetup](https://saigon-ai.dev)** | ホーチミン市で、AIを実際に作りながら学ぶ開発コミュニティ | `Organizing` |
+| **[tnihei.com](https://tnihei.com)** | AIプロダクト、個人開発、海外で働くこと、ベトナムでの暮らしを書く個人ブログ | `Writing` |
 
-### これまで
-|title|description | 
-|:----|:----|
-|学士|山形大学(工学)-2022|
-|仕事|ベトナムのHCMCのIT会社|
+## Building now
 
-### open repository
-|title|description | 
-|:----|:----|
-|[![Readme Card](https://github-readme-stats-fork-two-smoky.vercel.app/api/pin/?username=nihei1206&repo=oitama_trans)](https://github.com/nihei1206/oitama_trans)| 卒業研究「置賜方言における共通語への機械翻訳と性能評価」の公開用レポジトリ　 |
-|[![Readme Card](https://github-readme-stats-fork-two-smoky.vercel.app/api/pin/?username=nihei1206&repo=OitamaDict)](https://github.com/nihei1206/OitamaDict)|山形県置賜地方の方言をまとめたコーパスです。形態素解析器Sudachiで使える形になっています|
-|[![Readme Card](https://github-readme-stats-fork-two-smoky.vercel.app/api/pin/?username=nihei1206&repo=1click-japanese)](https://github.com/nihei1206/1click-japanese)|1click日本語フィルタ Chrome拡張|
+- **note Booster** — 収集から振り返りまでを、PCとスマートフォンをまたいで使える体験へ改善中
+- **NichiViet** — 日越生活の手続き情報、体験記事、クリエイター情報をひとつの場所へ集約中
+- **Come True** — 体組成・習慣・食事の記録と、日次動画生成を組み合わせた個人用アプリ
+- **Yatai** — 日本・東南アジア間の小規模ECに向けた在庫管理プロダクトを検証中
 
-### PJ
-|title|description | 
-|:----|:----|
-|[ベトナム生活辞書](https://vnjpdictionary.web.app/)|未完成, 放置 |
-|[ミーティングタイムスタンプレコーダー](https://timestamp-recorder-pwa-orcin.vercel.app/)|ミーティング録画をタイムスタンプ付きで共有できるツール|
-|[Hôm nay có phải là ngày ăn chay không?](https://anchay-39a91.web.app/)|菜食日がわかるツール|
-|[Price Comparison](https://comparing-cost-app.firebaseapp.com/)|日越英3ヶ国語対応,単位あたりの費用比較ツール|
-|[1click-japanese](https://chromewebstore.google.com/detail/cnbmoidocnhdkkhmieejcpbkmhafdfng)|1click日本語フィルタ Chrome拡張|
-|[Cursor Usage Counter](https://chromewebstore.google.com/detail/cursor-usage-counter/eaincebonkecnmnlhaelkollmfadilep?authuser=0&hl=ja)|Cursorの使用料を日毎/月毎に表示するChrome拡張|
+## Writing
 
-### 最近の興味あること
-- 文章から感情分析 (BERT,NLP) 
-- ReactJS,TypeScript
-- PWA
+個人ブログ **[tnihei.com](https://tnihei.com)** に、作ったものと考えたことをまとめています。
+
+- [静的ブログのサイト内検索を、日本語の表記ゆれに強くした](https://tnihei.com/posts/static-blog-japanese-search/)
+- [仕事用と個人用のGitHub、Cloudflareを、ディレクトリだけで切り替える](https://tnihei.com/posts/multi-account-ssh-direnv/)
+- [ベトナムに残りたい。でも、「日本人だから」の仕事はいつまであるんだろう](https://tnihei.com/posts/staying-in-vietnam-beyond-being-japanese/)
+
+技術だけでなく、海外就職、プロダクトづくり、コミュニティ、家族とのベトナム生活についても書いています。
+
+## Roots & open work
+
+| Repository | About |
+| --- | --- |
+| **[oitama_trans](https://github.com/nihei1206/oitama_trans)** | 卒業研究「置賜方言における共通語への機械翻訳と性能評価」 |
+| **[OitamaDict](https://github.com/nihei1206/OitamaDict)** | Sudachiで利用できる、山形県置賜地方の方言コーパス |
+| **[chrome-ext-1click-ja](https://github.com/nihei1206/chrome-ext-1click-ja)** | Webページから日本語以外を隠すChrome拡張 |
+
+## Current toolbox
+
+`TypeScript` · `React` · `Cloudflare Workers` · `Hono` · `Hugo` · `AI agents` · `Product management`
+
+<p align="center">
+  <strong>Build small. Ship for real. Learn in public.</strong><br>
+  <sub>Ho Chi Minh City, Vietnam</sub>
+</p>
 

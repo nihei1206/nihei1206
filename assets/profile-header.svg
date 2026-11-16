@@ -1,0 +1,42 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Mota Nihei</title>
+  <desc id="desc">Gen AI PM and solo maker in Ho Chi Minh City</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07111F"/>
+      <stop offset="0.58" stop-color="#0B1B2D"/>
+      <stop offset="1" stop-color="#102A3D"/>
+    </linearGradient>
+    <linearGradient id="line" x1="76" y1="261" x2="1117" y2="66" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF6B35"/>
+      <stop offset="0.56" stop-color="#FFB703"/>
+      <stop offset="1" stop-color="#29D3C2"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1024 154) rotate(180) scale(278 244)">
+      <stop stop-color="#29D3C2" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#29D3C2" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#D6F3FF" stroke-opacity="0.055"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="24" fill="url(#grid)"/>
+  <rect width="1200" height="320" rx="24" fill="url(#glow)"/>
+  <path d="M78 259C244 235 284 270 430 224C598 174 742 238 888 210C1002 188 1075 119 1122 62" stroke="url(#line)" stroke-width="3" stroke-linecap="round"/>
+  <path d="M78 259C244 235 284 270 430 224C598 174 742 238 888 210C1002 188 1075 119 1122 62" stroke="white" stroke-opacity="0.1" stroke-width="11" stroke-linecap="round"/>
+  <circle cx="958" cy="112" r="78" stroke="#29D3C2" stroke-opacity="0.28"/>
+  <circle cx="958" cy="112" r="52" stroke="#FFB703" stroke-opacity="0.35"/>
+  <circle cx="958" cy="112" r="8" fill="#FF6B35"/>
+  <circle cx="1034" cy="131" r="5" fill="#29D3C2"/>
+  <circle cx="905" cy="168" r="4" fill="#FFB703"/>
+  <rect x="76" y="48" width="157" height="28" rx="14" fill="#29D3C2" fill-opacity="0.12" stroke="#29D3C2" stroke-opacity="0.45"/>
+  <text x="94" y="67" fill="#7FE9DE" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="12" font-weight="700" letter-spacing="1.6">HELLO, I'M MOTA</text>
+  <text x="75" y="147" fill="#F8FAFC" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="66" font-weight="800" letter-spacing="-2">MOTA NIHEI</text>
+  <text x="78" y="184" fill="#B7C8D9" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="18" font-weight="500" letter-spacing="0.2">Building useful things at the intersection of AI, product, and real life.</text>
+  <text x="78" y="286" fill="#8FA6BA" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="12" font-weight="700" letter-spacing="2.2">HO CHI MINH CITY  ·  GEN AI PM  ·  SOLO MAKER</text>
+  <rect x="1120" y="271" width="6" height="6" rx="3" fill="#FF6B35"/>
+  <rect x="1135" y="271" width="6" height="6" rx="3" fill="#FFB703"/>
+  <rect x="1150" y="271" width="6" height="6" rx="3" fill="#29D3C2"/>
+</svg>
