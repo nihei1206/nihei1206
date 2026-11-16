@@ -21,16 +21,16 @@
 
 | Product | What it does | Status |
 | --- | --- | --- |
-| **[note Booster](https://note-booster.app)** | noteのビュー・スキ・フォロワー推移を、Chrome拡張とWebダッシュボードで可視化 | `Released` `Building` |
+| **[note Booster](https://note-booster.app)** | noteのビュー・スキ・フォロワー推移を、Chrome拡張とWebダッシュボードで可視化 | `Live` |
+| **[SheetPress](https://sheetpress.app)** | GoogleスプレッドシートをCMSとして、Webサイトを作成・更新できるサービス | `Released` |
 | **[NichiViet](https://nichiviet.com)** | 日本とベトナムの暮らし・手続き・クリエイター情報をつなぐ生活情報プロダクト | `Public` `Building` |
 | **[Saigon AI Development Meetup](https://saigon-ai.dev)** | ホーチミン市で、AIを実際に作りながら学ぶ開発コミュニティ | `Organizing` |
 | **[tnihei.com](https://tnihei.com)** | AIプロダクト、個人開発、海外で働くこと、ベトナムでの暮らしを書く個人ブログ | `Writing` |
 
 ## Building now
 
-- **note Booster** — 収集から振り返りまでを、PCとスマートフォンをまたいで使える体験へ改善中
+- **note Booster** — サービス提供中
 - **NichiViet** — 日越生活の手続き情報、体験記事、クリエイター情報をひとつの場所へ集約中
-- **Come True** — 体組成・習慣・食事の記録と、日次動画生成を組み合わせた個人用アプリ
 - **Yatai** — 日本・東南アジア間の小規模ECに向けた在庫管理プロダクトを検証中
 
 ## Writing
