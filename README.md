@@ -23,6 +23,7 @@
 | --- | --- | --- |
 | **[note Booster](https://note-booster.app)** | noteのビュー・スキ・フォロワー推移を、Chrome拡張とWebダッシュボードで可視化 | `Live` |
 | **[SheetPress](https://sheetpress.app)** | GoogleスプレッドシートをCMSとして、Webサイトを作成・更新できるサービス | `Released` |
+| **[日本語検索フィルター](https://github.com/nihei1206/chrome-ext-1click-ja)** | Google検索の結果を、日本語のページだけにワンクリックで絞り込むChrome拡張 | `Released` |
 | **[NichiViet](https://nichiviet.com)** | 日本とベトナムの暮らし・手続き・クリエイター情報をつなぐ生活情報プロダクト | `Public` `Building` |
 | **[Saigon AI Development Meetup](https://saigon-ai.dev)** | ホーチミン市で、AIを実際に作りながら学ぶ開発コミュニティ | `Organizing` |
 | **[tnihei.com](https://tnihei.com)** | AIプロダクト、個人開発、海外で働くこと、ベトナムでの暮らしを書く個人ブログ | `Writing` |
@@ -43,13 +44,14 @@
 
 技術だけでなく、海外就職、プロダクトづくり、コミュニティ、家族とのベトナム生活についても書いています。
 
-## Roots & open work
+## Academic roots
+
+学生時代の卒業研究と、そこで作成した成果物です。
 
 | Repository | About |
 | --- | --- |
-| **[oitama_trans](https://github.com/nihei1206/oitama_trans)** | 卒業研究「置賜方言における共通語への機械翻訳と性能評価」 |
-| **[OitamaDict](https://github.com/nihei1206/OitamaDict)** | Sudachiで利用できる、山形県置賜地方の方言コーパス |
-| **[chrome-ext-1click-ja](https://github.com/nihei1206/chrome-ext-1click-ja)** | Webページから日本語以外を隠すChrome拡張 |
+| **[oitama_trans](https://github.com/nihei1206/oitama_trans)** | 卒業研究「置賜方言における共通語への機械翻訳と性能評価」（優秀発表賞） |
+| **[OitamaDict](https://github.com/nihei1206/OitamaDict)** | 卒業研究で作成した、Sudachiで利用できる山形県置賜地方の方言コーパス |
 
 ## Current toolbox
 
